@@ -1,0 +1,10 @@
+{
+    "program": "simpletoken.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp5cp7t1ckSsQg28TLirEvfgDs5vpfrZ1RaMjmtorUEQLn",
+        "address": "aleo1qf02j0knqwqrke3ngyuk4rrvhzgvtqcnz3j8tgxelgzjxay2ec8qamht6e"
+    },
+    "license": "MIT"
+}
