@@ -29,3 +29,4 @@ This smart contract can be deployed on the Aleo blockchain to create and manage 
 ## Getting Started
 
 To get started with this smart contract, you can deploy it on the Aleo blockchain, and users can interact with it through Aleo-supported tools and platforms.
+Discord:nilssibl
